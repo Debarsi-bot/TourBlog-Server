@@ -1,0 +1,8 @@
+Done : 
+1) Connected to Mongodb
+2) Createad user and post models in mongoose
+3) sign-up api done, with generation of JWT token
+
+To Do:
+1) sign-in api
+2) how to merge google authentication and normal user password authentication
